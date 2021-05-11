@@ -14,7 +14,7 @@
 
 # Kodun Basitçe Kullanımı
 
-⭐ !karekod <link>
+⭐ qr!karekod <link>
 
 # Botun Cevabı
 
